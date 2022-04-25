@@ -1,4 +1,4 @@
-Java BDD framework
+BDD framework
 Java
 Selenium
 Cucumber
